@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Hennepins-MacBook-Pro.local" name="auctionhaus.CustomerTests" tests="6" time="0.142" timestamp="2012-03-25T03:42:27">
+  <properties />
+  <testcase classname="auctionhaus.CustomerTests" name="testCustomerNullFieldsCauseError" time="0.022" />
+  <testcase classname="auctionhaus.CustomerTests" name="testCustomerNonNullFieldsOK" time="0.02" />
+  <testcase classname="auctionhaus.CustomerTests" name="testCustomerEmailOK" time="0.015" />
+  <testcase classname="auctionhaus.CustomerTests" name="testCustomerEmailError" time="0.015" />
+  <testcase classname="auctionhaus.CustomerTests" name="testCustomerPasswordError" time="0.016" />
+  <testcase classname="auctionhaus.CustomerTests" name="testCustomerPasswordOK" time="0.016" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[--Output from testCustomerNullFieldsCauseError--
+--Output from testCustomerNonNullFieldsOK--
+--Output from testCustomerEmailOK--
+--Output from testCustomerEmailError--
+--Output from testCustomerPasswordError--
+--Output from testCustomerPasswordOK--
+]]></system-err>
+</testsuite>
